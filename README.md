@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakshiblip/customer-churn-prediction/blob/main/feature_engineering_for_customer_churn_prediction.ipynb)
+
 # Preventing Customer Churn with Feature Transformation 📉
 
 This repository contains a specialized machine learning project focused on predicting customer attrition. By emphasizing advanced feature engineering and data transformation, this project builds a robust classification system to identify "at-risk" customers and help businesses implement proactive retention strategies.
